@@ -1,10 +1,8 @@
 # Avocado Transportation Optimization
 
 ## Authors
-Tz-Ruei Liu (tliu292@wisc.edu)
-
-Hashim Hussain Aljarrash (aljarrash@wisc.edu)
-
+Tz-Ruei Liu (tliu292@wisc.edu)  
+Hashim Hussain Aljarrash (aljarrash@wisc.edu)  
 Zhenyu Zou (zzou24@wisc.edu)
 
 ## Introduction
